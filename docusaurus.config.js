@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Remember the Tax',
-  tagline: 'Mind the details and retire rich',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'dev.jakelevirne.com',
+  tagline: 'musings on software development',
+  url: 'https://dev.jakelevirne.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'jakelevirne', // Usually your GitHub org/user name.
-  projectName: 'rtt', // Usually your repo name.
+  projectName: 'dev', // Usually your repo name.
   onBrokenLinks: 'warn',
   themeConfig: {
     navbar: {
-      title: 'Remember the Tax',
+      title: 'dev.jakelevirne.com',
       logo: {
         alt: 'My Site Logo',
         src: 'img/KanjiWealth.png',
@@ -56,7 +56,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/awakenjake',
             },
           ],
         },
@@ -69,7 +69,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/jakelevirne/dev',
             },
           ],
         },
